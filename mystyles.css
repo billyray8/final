@@ -1,0 +1,45 @@
+/* Styles for <p> tags on the index page */
+p.index-paragraph {
+  font-family: Arial, sans-serif;
+  color: #333333;
+  text-align: justify;
+}
+
+/* Styles for <h1> tags on the About Me page */
+h1.about-heading {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #0066cc;
+  text-align: center;
+  font-size: 24px;
+}
+
+/* Custom class for bold text */
+.bold {
+  font-weight: bold;
+}
+
+/* Custom class for italic text */
+.italic {
+  font-style: italic;
+}
+/* For index.html */
+body.index {
+  background-image: url("https://wallpapercave.com/wp/xpWSsgS.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* For about.html */
+body.about {
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/white/white-unsplash-9d0375d2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* For Tableau.html */
+body.Tableau {
+  background-image: url("https://www.stepstoseniorcare.com/wp-content/uploads/2020/02/bigstock-White-Background-Abstract-Bac-327953740-1024x527.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+

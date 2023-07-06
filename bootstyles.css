@@ -1,0 +1,45 @@
+/* Navigation Styles */
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 10px 5px;
+  }
+}
+
+
+/* Tableau Styles */
+.main-body {
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .main-body {
+    padding: 5px;
+  }
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 10px 5px;
+  }
+}
+a.back-link {
+  color: blue;
+  text-decoration: underline;
+}
+
+  
+
